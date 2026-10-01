@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark counterpart of Theme.PhotoFinder, also without Material Components. -->
+    <style name="Theme.PhotoFinder" parent="android:Theme.Material.NoActionBar" />
+</resources>

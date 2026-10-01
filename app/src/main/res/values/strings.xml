@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">Fotofinder</string>
+
+    <string name="search_title">Fotofinder</string>
+    <string name="search_section_title">Suche</string>
+    <string name="search_expand">Suche aufklappen</string>
+    <string name="search_collapse">Suche zuklappen</string>
+    <string name="field_tag">Schluesselwort</string>
+    <string name="field_text">Text im Bild</string>
+    <string name="date_from">Von</string>
+    <string name="date_to">Bis</string>
+    <string name="date_any">beliebig</string>
+    <string name="action_search">Suchen</string>
+    <string name="action_reset">Zuruecksetzen</string>
+    <string name="menu_more">Mehr</string>
+    <string name="menu_index_now">Jetzt indexieren</string>
+    <string name="search_hint">Text in Fotos suchen</string>
+    <string name="filter_title">Filter</string>
+    <string name="chip_options">Optionen</string>
+    <string name="options_toggle">Optionen und Filter</string>
+    <string name="sort_title">Sortieren</string>
+    <string name="sort_date">Aufnahmedatum</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_distance">Entfernung vom Standort</string>
+    <string name="sort_order">Reihenfolge</string>
+    <string name="sort_asc">Aufsteigend</string>
+    <string name="sort_desc">Absteigend</string>
+    <string name="sort_resolving">Standort wird ermittelt...</string>
+    <string name="action_back">Zurueck</string>
+    <string name="action_share">Teilen</string>
+    <string name="action_info">Info</string>
+    <string name="action_delete">Loeschen</string>
+    <string name="viewer_info_title">Info</string>
+    <string name="viewer_location">Aufnahmeort</string>
+    <string name="viewer_no_location">Kein Standort hinterlegt</string>
+    <string name="viewer_ocr">Erkannter Text</string>
+    <string name="viewer_no_ocr">Kein Text erkannt</string>
+    <string name="viewer_tags">Tags</string>
+    <string name="map_all_title">Fotos auf der Karte</string>
+    <string name="map_open">Auf Karte oeffnen</string>
+    <string name="grid_density">Rasterdichte</string>
+    <string name="grid_density_value">Spalten: %1$d</string>
+    <string name="loading_photos">Fotos werden geladen...</string>
+    <string name="group_no_location">Ohne Standort</string>
+    <string name="group_unknown_folder">Unbekannter Ordner</string>
+    <string name="dist_band_lt1">Unter 1 km</string>
+    <string name="dist_band_1_5">1 bis 5 km</string>
+    <string name="dist_band_5_25">5 bis 25 km</string>
+    <string name="dist_band_25_100">25 bis 100 km</string>
+    <string name="dist_band_gt100">Ueber 100 km</string>
+    <string name="sort_ref_filter">Bezug: gefilterter Ort</string>
+    <string name="sort_ref_current">Bezug: aktueller Standort</string>
+    <string name="section_date">Datum</string>
+    <string name="section_options">Textoptionen</string>
+    <string name="banner_pending">%1$d Fotos noch nicht durchsucht</string>
+    <string name="banner_now">Jetzt</string>
+    <string name="clear_field">Feld leeren</string>
+    <string name="opt_whole_word">Ganzes Wort</string>
+    <string name="opt_case_sensitive">Gross-/Kleinschreibung</string>
+    <string name="empty_hint">Keine Treffer. Suchkriterien anpassen oder Indexierung starten.</string>
+    <string name="results_count">%1$d Treffer</string>
+
+    <string name="permission_needed">Zugriff auf Fotos wird benoetigt, um die Galerie zu durchsuchen.</string>
+    <string name="permission_grant">Zugriff erlauben</string>
+
+    <string name="consent_title">Texterkennung aktivieren</string>
+    <string name="consent_message">Die Texterkennung laeuft vollstaendig auf dem Geraet. Es werden keine Bilder hochgeladen oder an einen Cloud-Dienst uebertragen. Die Indexierung laeuft im Hintergrund weiter, solange die App geoeffnet ist; das kann je nach Anzahl etwas dauern und Akku verbrauchen. Texterkennung jetzt aktivieren?</string>
+    <string name="consent_accept">Aktivieren</string>
+    <string name="consent_decline">Spaeter</string>
+
+    <string name="index_status">Indexiert: %1$d von %2$d</string>
+    <string name="index_running">Indexiere ... (%1$d von %2$d)</string>
+    <string name="index_continue">Indexierung fortsetzen</string>
+    <string name="index_done">Alle Bilder indexiert</string>
+
+    <string name="notif_channel_name">Indexierung</string>
+    <string name="notif_indexing_title">Fotofinder indexiert Bilder</string>
+
+    <string name="loc_filter_button">Standort</string>
+    <string name="loc_summary_any">egal</string>
+    <string name="loc_summary_with">mit Standort</string>
+    <string name="loc_summary_without">ohne Standort</string>
+    <string name="loc_dialog_title">Standortfilter</string>
+    <string name="loc_mode_any">Egal</string>
+    <string name="loc_mode_with">Nur Fotos mit Standort</string>
+    <string name="loc_mode_without">Nur Fotos ohne Standort</string>
+    <string name="loc_mode_radius">Umkreis um einen Ort</string>
+    <string name="loc_use_current">Aktueller Standort</string>
+    <string name="loc_pick_on_map">Auf Karte waehlen</string>
+    <string name="loc_place_hint">Ort (z. B. Berlin)</string>
+    <string name="loc_place_set">Setzen</string>
+    <string name="loc_radius_label">Umkreis</string>
+    <string name="loc_center_none">Kein Mittelpunkt gewaehlt</string>
+    <string name="loc_map_label">Karte</string>
+    <string name="loc_apply">Anwenden</string>
+    <string name="loc_no_location">Kein aktueller Standort verfuegbar</string>
+    <string name="loc_geocode_failed">Ort nicht gefunden</string>
+
+    <string name="map_title">Punkt auf Karte waehlen</string>
+    <string name="map_confirm">Uebernehmen</string>
+    <string name="loc_rescan">Standortdaten neu einlesen</string>
+    <string name="loc_rescan_hint">Liest die GPS-Daten aller Fotos erneut ein. Sinnvoll, nachdem die Medienstandort-Berechtigung erteilt wurde.</string>
+    <string name="diag_perm_granted">Medienstandort-Berechtigung: erteilt</string>
+    <string name="diag_perm_missing">Medienstandort-Berechtigung: fehlt</string>
+    <string name="loc_request_perm">Berechtigung anfragen</string>
+    <string name="diag_coords">Fotos mit Koordinaten: %1$d von %2$d</string>
+    <string name="diag_pending">Noch nicht auf Standort geprueft: %1$d</string>
+
+    <string name="tag_dialog_title">Schluesselwoerter bearbeiten</string>
+    <string name="tag_dialog_save">Speichern</string>
+    <string name="tag_dialog_cancel">Abbrechen</string>
+    <string name="tag_dialog_close">Schliessen</string>
+    <string name="tag_add">Tag</string>
+    <string name="tag_add_action">Hinzufuegen</string>
+    <string name="tag_existing">Vorhandene Schluesselwoerter</string>
+    <string name="tag_none_yet">Noch keine Schluesselwoerter vergeben.</string>
+    <string name="tag_remove_cd">Schluesselwort entfernen</string>
+
+    <string name="select_all">Alles markieren</string>
+    <string name="selection_clear">Aufheben</string>
+    <string name="selection_deselect">Auswahl aufheben</string>
+    <string name="selection_close">Auswahl beenden</string>
+    <string name="selection_count">%1$d ausgewaehlt</string>
+    <string name="selection_tag">Tag fuer Auswahl</string>
+    <string name="batch_tag_title">Schluesselwort fuer %1$d Bilder</string>
+</resources>

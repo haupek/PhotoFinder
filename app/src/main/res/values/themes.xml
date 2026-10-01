@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+      Dependency-free NoActionBar base theme. The app draws its UI with Jetpack
+      Compose (MaterialTheme) and its own TopAppBar, so no ActionBar and no
+      Material Components library theme is needed here.
+    -->
+    <style name="Theme.PhotoFinder" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
